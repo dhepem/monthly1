@@ -36,7 +36,8 @@ SECRET_KEY = get_secret("SECRET_KEY")
 
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['3.35.206.104',
+                 'ec2-3-35-206-104.ap-northeast-2.compute.amazonaws.com']
 
 
 # Application definition
