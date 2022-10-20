@@ -2,4 +2,3 @@
 venv/
 secrets.json
 *.pem
-requirements.txt
